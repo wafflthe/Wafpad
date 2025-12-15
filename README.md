@@ -19,3 +19,8 @@ Everything to make a Wafpad!
 - 8x Blank DSA Keycaps
 - 8x Diode (THT)
 - 8x SK6812 Mini LEDs
+Case
+- 4x M3x16mm screws
+- 4x M3x5mx4mm heatset inserts
+- 1x Wafpad case v1.step
+- 1x Wafpad top v1.step
