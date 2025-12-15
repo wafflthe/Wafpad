@@ -1,2 +1,21 @@
 # Wafpad
 A lil macropad with some screens and stuff
+![Current cad design](Images/Final.png)
+
+# Inspiration
+Mainly inspired by the stream deck neo but without the angled case (Will be added to CAD in the future)
+
+# PCB and Schematic
+I used Kicad to design both the PCB and Schematic
+![PCB](Images/PCB.png)
+![Schematic](Images/Schematic.png)
+
+# BOM
+Everything to make a Wafpad!
+- 1x XIAO RP2040 (with headers)
+- 1x EC11E Rotary Encoder
+- 1x 0.91" OLED Display
+- 8x Cherry MX Switches
+- 8x Blank DSA Keycaps
+- 8x Diode (THT)
+- 8x SK6812 Mini LEDs
