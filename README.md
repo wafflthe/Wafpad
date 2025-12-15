@@ -9,6 +9,7 @@ Mainly inspired by the stream deck neo but without the angled case (Will be adde
 I used Kicad to design both the PCB and Schematic
 ![PCB](Images/PCB.png)
 ![Schematic](Images/Schematic.png)
+I used a 2x8 matrix to get all of the keys to fit as I diddnt have enough gpio ports
 
 # BOM
 Everything to make a Wafpad!
