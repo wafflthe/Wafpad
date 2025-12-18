@@ -15,13 +15,15 @@ I used a 2x8 matrix to get all of the keys to fit as I diddnt have enough gpio p
 # BOM
 Everything to make a Wafpad!
 - 1x XIAO RP2040 (with headers)
-- 1x EC11E Rotary Encoder
+- 1x EC11 Rotary Encoder
 - 1x 0.91" OLED Display
 - 8x Cherry MX Switches
 - 8x Blank DSA Keycaps
 - 8x Diode (THT)
 - 8x SK6812 Mini LEDs
+
 Case
+
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
 - 1x Wafpad case v1.step
