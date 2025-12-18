@@ -7,9 +7,10 @@ Green area at the bottom is for the .91" OLED display I just couldent find a 3d 
 Mainly inspired by the stream deck neo but without the angled case (Will be added to CAD in the future)
 
 # Case CAD
-Top and bottom CAD files for case
+Top and bottom CAD files for case 
 ![Casetop](Images/HackpadTop.png)
 ![Casebottom](Images/HackpadCase.png)
+Designed in onshape
 
 # PCB and Schematic
 I used Kicad to design both the PCB and Schematic
